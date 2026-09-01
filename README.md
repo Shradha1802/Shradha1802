@@ -15,19 +15,17 @@
 ---
 
 ### 🚀 Featured Projects
+**[PotholeGuard](https://potholedetection-a8ta.onrender.com)** — Smart Road Monitoring & Pothole Detection System
+IoT-enabled system using an ESP32 with ultrasonic + IMU sensor fusion to detect road anomalies in real time, tagging events with GPS location. Paired with a MERN web dashboard for road-condition monitoring.
+ESP32 MPU6050 GPS React Express MongoDB
 
-**[PotholeGuard](#)** — Smart Road Monitoring & Pothole Detection System
-IoT-enabled system using ESP32 + MPU6050 sensor fusion to detect road anomalies in real time, streaming GPS-tagged data to a live MERN dashboard for road-condition monitoring.
-`ESP32` `MPU6050` `GPS` `MERN`
+*[ResumeGenie](https://resumegenie-pdq3.onrender.com)* — GenAI Job Preparation Platform
+Full-stack platform for resume analysis, job-description parsing, skill-gap detection, ATS-optimized resume generation, and AI-powered interview prep, using Gemini AI and JWT-based auth.
+React Node.js MongoDB JWT Gemini AI Puppeteer
 
-**[Wanderlust](#)** — Full-Stack Travel Listing Platform
-Deployed travel listing app with complete CRUD functionality, secure auth via Passport.js, and session-based access control.
-`Node.js` `Express` `MongoDB` `EJS` `Passport.js`
-
-**[NexMeet](#)** — Real-Time Video Conferencing App
-Peer-to-peer video, audio, chat, and screen sharing built with WebRTC signaling over Socket.io.
-`React` `WebRTC` `Socket.io`
-
+*[WanderLust](https://wanderlust-4pkr.onrender.com)* — Full-Stack Travel Listing Platform
+Deployed travel listing app with complete CRUD functionality, secure auth via Passport.js, session-based access control, Mapbox location integration, and Cloudinary image storage.
+Node.js Express MongoDB EJS Passport.js
 
 ---
 
